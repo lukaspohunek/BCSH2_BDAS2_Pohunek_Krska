@@ -25,3 +25,6 @@ Databáze :
 • IO1: Maximální výkon Elektrokoloběžky je 1000 W.
 • IO2: Minimální hodnota startovného je 200 Kč.
 • IO3: Úroveň oprávnění může obsahovat pouze hodnoty <1; 4>
+<img width="440" alt="image" src="https://github.com/lukaspohunek/BCSH2_BDAS2_Pohunek_Krska/assets/125375145/48ba8c93-93a7-4216-83b2-559c43d39cf1">
+<img width="440" alt="image" src="https://github.com/lukaspohunek/BCSH2_BDAS2_Pohunek_Krska/assets/125375145/c0588959-817c-47c4-a86d-80f504c361de">
+
