@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BCSH2_BDAS2_Pohunek_Krska.props" />
+</Project>

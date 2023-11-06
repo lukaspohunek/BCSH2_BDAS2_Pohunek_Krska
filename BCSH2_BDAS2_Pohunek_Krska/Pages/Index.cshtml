@@ -1,10 +1,28 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "ScootRace";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container mt-4">
+    <h1 class="display-4">ScootRace</h1>
+    <p>Toto je úvodní stránka vaší aplikace pro závody koloběžek. Zde by měly být zobrazeny informace o závodech, závodnících, koloběžkách a sponzorech.</p>
+
+    <div class="row">
+        <div class="col-md-6">
+            <h2>Závody</h2>
+            <p>Zatím nejsou k dispozici žádné informace o závodech.</p>
+        </div>
+
+        <div class="col-md-6">
+            <h2>Závodníci</h2>
+            <p>Zatím nejsou k dispozici žádné informace o závodnících.</p>
+        </div>
+    </div>
+
+    <div class="text-center">
+        <a class="btn btn-primary" href="/AddZavod">Přidat Závod</a>
+        <a class="btn btn-primary" href="/AddZavodnik">Přidat Závodníka</a>
+    </div>
 </div>
+
