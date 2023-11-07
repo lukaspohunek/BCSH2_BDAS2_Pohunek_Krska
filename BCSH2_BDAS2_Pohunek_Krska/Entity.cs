@@ -68,7 +68,50 @@
             public int Cislo_popisne { get; set; } 
             public int PSC { get; set; } // PSČ (Poštovní směrovací číslo)
             public string Doplnujici_udaj { get; set; } 
+        }
 
+        public class Zavod
+        {
+            public int Id_Zavod { get; set; }
+            public string Nazev { get; set; }
+            public decimal Startovne { get; set; }
+            public DateTime Datum { get; set; }
+            public TimeSpan Cas_Start { get; set; }
+            public int Id_Adresa { get; set; }
+            public int Id_Turnaj { get; set; }
+        }
+
+        public class Sponzor_zavodu
+        {
+            public int Id_Sponzor_Zavodu { get; set; }
+            public decimal Prispevek { get; set; }
+            public int Id_Sponzor { get; set; }
+            public int Id_Zavod { get; set; }
+        }
+
+        public class Sponzor
+        {
+            public int Id_Sponzor { get; set; }
+            public string Nazev { get; set; }
+        }
+
+        public class Turnaj
+        {
+            public int Id_Turnaj { get; set; }
+            public string Nazev { get; set; }
+        }
+
+        public class Podminka_zavodu
+        {
+            public int Id_Podminka_Zavodu { get; set; }
+            public int Id_Zavod { get; set; }
+            public int Id_Podminka { get; set; }
+        }
+
+        public class Podminka
+        {
+            public int Id_Podminka { get; set; }
+            public string Popis { get; set; }
         }
     }
 }
