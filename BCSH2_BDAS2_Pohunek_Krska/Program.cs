@@ -22,4 +22,10 @@ app.UseAuthorization();
 
 app.MapRazorPages();
 
+// Add your custom route mapping here
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+
 app.Run();
+

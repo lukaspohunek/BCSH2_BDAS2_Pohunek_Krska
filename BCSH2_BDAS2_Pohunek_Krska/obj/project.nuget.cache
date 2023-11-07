@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "ufeJPtmCa5jQiD+t0+tk8MWlOl5vS99LjK8RIgg+sXsQNMRbXaJZ6wakvQgK0t9ffXePuUX8CJhnGrLWnewoPw==",
+  "dgSpecHash": "gh0aMmYdSfDITTHbB6rjt+/3S0c3iJeOl38h8tpmeWgeb4cQZccHt3WrS9SfjSFmBsWomuqu1H8pOFfMMIDdMw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lukáš\\source\\repos\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Lukáš\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lukáš\\.nuget\\packages\\oracle.manageddataaccess.core\\3.21.120\\oracle.manageddataaccess.core.3.21.120.nupkg.sha512",
+    "C:\\Users\\Lukáš\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lukáš\\.nuget\\packages\\system.diagnostics.performancecounter\\6.0.1\\system.diagnostics.performancecounter.6.0.1.nupkg.sha512",
+    "C:\\Users\\Lukáš\\.nuget\\packages\\system.directoryservices\\6.0.1\\system.directoryservices.6.0.1.nupkg.sha512",
+    "C:\\Users\\Lukáš\\.nuget\\packages\\system.directoryservices.protocols\\6.0.2\\system.directoryservices.protocols.6.0.2.nupkg.sha512",
+    "C:\\Users\\Lukáš\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lukáš\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lukáš\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lukáš\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lukáš\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -8,21 +8,19 @@
     <h1 class="display-4">ScootRace</h1>
     <p>Toto je úvodní stránka vaší aplikace pro závody koloběžek. Zde by měly být zobrazeny informace o závodech, závodnících, koloběžkách a sponzorech.</p>
 
-    <div class="row">
-        <div class="col-md-6">
-            <h2>Závody</h2>
-            <p>Zatím nejsou k dispozici žádné informace o závodech.</p>
-        </div>
-
-        <div class="col-md-6">
-            <h2>Závodníci</h2>
-            <p>Zatím nejsou k dispozici žádné informace o závodnících.</p>
-        </div>
-    </div>
-
+    <!-- Test Oracle Connection Button -->
     <div class="text-center">
+        <a class="btn btn-primary" href="/OracleTest/TestOracleConnection">Test Oracle Connection</a>
         <a class="btn btn-primary" href="/AddZavod">Přidat Závod</a>
         <a class="btn btn-primary" href="/AddZavodnik">Přidat Závodníka</a>
     </div>
-</div>
 
+    <!-- Display Oracle Connection Result -->
+    <div class="mt-4">
+        <h2>Oracle Connection Test Result</h2>
+        @if (ViewBag.Message != null)
+        {
+            <p>Test Result: @ViewBag.Message</p>
+        }
+    </div>
+</div>

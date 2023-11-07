@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCSH2_BDAS2_Pohunek_Krska", "BCSH2_BDAS2_Pohunek_Krska\BCSH2_BDAS2_Pohunek_Krska.csproj", "{DFA58EB6-274E-4A45-991F-766CC72B5F91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BCSH2_BDAS2_Pohunek_Krska", "BCSH2_BDAS2_Pohunek_Krska\BCSH2_BDAS2_Pohunek_Krska.csproj", "{DFA58EB6-274E-4A45-991F-766CC72B5F91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Položky řešení", "Položky řešení", "{E32AD1DE-9CEE-477A-8CFA-B2F386AA8FD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
