@@ -1,0 +1,40 @@
+﻿@page
+@model FullControlModel
+@{
+    ViewData["Title"] = "Full Database Control";
+}
+
+<div class="container mt-4">
+    <h1 class="display-4">Full Database Control</h1>
+    <p>Na této stránce můžete provádět různé operace s databází a získat náhledy do databáze.</p>
+
+    <!-- Tlačítka pro operace s databází -->
+    <div class="row">
+        <div class="col-md-4">
+            <a href="/Kolobezky" class="btn btn-primary btn-lg btn-block">
+                <h3>Koloběžky</h3>
+                <p>Prohlížet a upravovat seznam koloběžek</p>
+            </a>
+        </div>
+        <div class="col-md-4">
+            <a href="/Osoby" class="btn btn-primary btn-lg btn-block">
+                <h3>Osoby</h3>
+                <p>Prohlížet a upravovat seznam osob</p>
+            </a>
+        </div>
+        <div class="col-md-4">
+            <a href="/Zavody" class="btn btn-primary btn-lg btn-block">
+                <h3>Závody</h3>
+                <p>Prohlížet a upravovat seznam závodů</p>
+            </a>
+        </div>
+
+
+    <!-- Náhledy do databáze -->
+    <div class="mt-4">
+        <h2>Náhledy do databáze</h2>
+        <p>Zde budou náhledy nebo tabulky, které zobrazují informace z databáze.</p>
+        <!-- Vložte zde kód pro zobrazení náhledů. -->
+    </div>
+</div>
+

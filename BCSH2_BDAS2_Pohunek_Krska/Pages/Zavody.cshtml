@@ -1,0 +1,41 @@
+﻿@page
+@model BCSH2_BDAS2_Pohunek_Krska.Pages.ZavodyModel
+@using BCSH2_BDAS2_Pohunek_Krska
+@{
+}
+
+<h1>Závody</h1>
+
+<!-- Data Grid View for Závody -->
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Název</th>
+            <th>Startovné</th>
+            <th>Datum</th>
+            <th>Čas Start</th>
+            <th>Adresa</th>
+            <th>Turnaj</th>
+        </tr>
+    </thead>
+    <tbody>
+       
+        {
+            <tr>
+                <td>Nazev</td>
+                <td>Startovne</td>
+                <td>Datum</td>
+                <td>Cas_Start</td>
+                <td>Adresa</td>
+                <td>Turnaj</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Buttons for Database Operations -->
+<div class="text-center">
+    <a class="btn btn-primary" href="/Zavody/Add">Přidat Závod</a>
+    <a class="btn btn-primary" href="/Zavody/Edit">Upravit Závod</a>
+    <a class="btn btn-primary" href="/Zavody/Delete">Smazat Závod</a>
+</div>
