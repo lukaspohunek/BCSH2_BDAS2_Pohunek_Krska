@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YG26OAzy42SoL5a8E7JX0YFBRKe+gxoUjq0y6kwc8Aqbf3yMZvkkF+7JPIijhXuX78VlUuq4aMvwFBF2LOZLwg==",
+  "dgSpecHash": "gh0aMmYdSfDITTHbB6rjt+/3S0c3iJeOl38h8tpmeWgeb4cQZccHt3WrS9SfjSFmBsWomuqu1H8pOFfMMIDdMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lukáš\\Source\\Repos\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska.csproj",
+  "projectFilePath": "C:\\Users\\Lukáš\\source\\repos\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lukáš\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\Lukáš\\.nuget\\packages\\oracle.manageddataaccess.core\\3.21.120\\oracle.manageddataaccess.core.3.21.120.nupkg.sha512",

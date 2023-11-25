@@ -15,25 +15,7 @@ builder.Services.AddRazorPages();
 var app = builder.Build();
 var configuration = app.Configuration;
 
-// Configure the Oracle connection
-using (OracleConnection connection = GetOracleConnection(configuration))
-{
-    connection.Open();
 
-    // Do your database operations here, such as querying data.
-    // For example:
-    using (OracleCommand command = new OracleCommand("SELECT 'Hello, Oracle!' FROM DUAL", connection))
-    {
-        using (OracleDataReader reader = command.ExecuteReader())
-        {
-            if (reader.Read())
-            {
-                string result = reader.GetString(0);
-                Console.WriteLine(result);
-            }
-        }
-    }
-}
 
 // Continue configuring the HTTP request pipeline, routing, and run the application as needed.
 if (!app.Environment.IsDevelopment())

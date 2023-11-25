@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lukáš\\Source\\Repos\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska.csproj": {}
+    "C:\\Users\\Lukáš\\source\\repos\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lukáš\\Source\\Repos\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska.csproj": {
+    "C:\\Users\\Lukáš\\source\\repos\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lukáš\\Source\\Repos\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska.csproj",
+        "projectUniqueName": "C:\\Users\\Lukáš\\source\\repos\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska.csproj",
         "projectName": "BCSH2_BDAS2_Pohunek_Krska",
-        "projectPath": "C:\\Users\\Lukáš\\Source\\Repos\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska.csproj",
+        "projectPath": "C:\\Users\\Lukáš\\source\\repos\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska.csproj",
         "packagesPath": "C:\\Users\\Lukáš\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lukáš\\Source\\Repos\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska\\obj\\",
+        "outputPath": "C:\\Users\\Lukáš\\source\\repos\\BCSH2_BDAS2_Pohunek_Krska\\BCSH2_BDAS2_Pohunek_Krska\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lukáš\\AppData\\Roaming\\NuGet\\NuGet.Config",
